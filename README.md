@@ -205,10 +205,6 @@ Pomiary przeprowadzone na maszynie **4-rdzeniowej** (4 wątki OpenMP), n = 10⁸
 
 ---
 
-## Analiza wydajności (Intel VTune)
-
-Projekt zawiera pełną instrukcję profilowania w pliku [`vtune_guide.md`](vtune_guide.md).
-
 ### Szybki start
 
 ```bash
