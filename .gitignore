@@ -1,0 +1,46 @@
+# Compiled binaries
+primes
+primes_omp
+primes_v1
+primes_v2
+
+# Object files and intermediate build artifacts
+*.o
+*.d
+*.obj
+*.elf
+
+# Debug symbols (macOS)
+*.dSYM/
+
+# Libraries
+*.a
+*.la
+*.so
+*.so.*
+*.dylib
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Intel VTune result directories
+vtune_results/
+r???ue/
+
+# Compressed archives
+*.zip
+*.tar.gz
+*.tgz
